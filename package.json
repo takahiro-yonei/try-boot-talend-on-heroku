@@ -1,0 +1,19 @@
+{
+  "name": "boot-talend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroku",
+    "talend"
+  ],
+  "author": "yonet",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "dotenv": "^8.2.0"
+  }
+}
